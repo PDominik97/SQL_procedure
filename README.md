@@ -1,3 +1,2 @@
-# SQL_procedure
+# T-SQL scripts
 
- Readme in progress :) 
